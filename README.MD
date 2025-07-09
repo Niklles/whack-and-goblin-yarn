@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/g8kb4jlur0sihg15?svg=true)](https://ci.appveyor.com/project/Niklles/whack-and-goblin-yarn)
+[![Build status](https://ci.appveyor.com/api/projects/status/q6gwcnfx44n1q7jp?svg=true)](https://ci.appveyor.com/project/Niklles/whack-and-goblin-yarn)
 
 # Игра "WHACK & GOBLIN"
 

@@ -1,7 +1,7 @@
 {
   "name": "whack-and-goblin-yarn",
   "version": "1.0.0",
-  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/saee5ugdhach25nt?svg=true)](https://ci.appveyor.com/project/Niklles/whack-and-goblin-yarn)",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/q6gwcnfx44n1q7jp?svg=true)](https://ci.appveyor.com/project/Niklles/whack-and-goblin-yarn)",
   "main": "index.js",
   "scripts": {
     "test": "jest src/",
